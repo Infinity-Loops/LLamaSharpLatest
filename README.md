@@ -15,6 +15,7 @@
 
 **Please star the repo to show your support for this project!🤗**
 
+(Fixed a bug for Falcon 3)
 ---
 
 
